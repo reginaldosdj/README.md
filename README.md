@@ -13,7 +13,6 @@ Estudante de Engenharia da Computação,estagiário de desenvolvimento fullstack
 
 <div style="display: inline_block">
   
- <h3> Front-end </h3>
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Lore-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -22,14 +21,14 @@ Estudante de Engenharia da Computação,estagiário de desenvolvimento fullstack
   <img align="center" alt="Lore-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Lore-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lore-TYPESCRIPT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
- <h3> Back-end </h3>
     
   <img align="center" alt="Lore-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Lore-SQL-SERVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Lore-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Lore-DOTNETCORE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  </div>
 
+ <img align="center" alt="Lore-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"/>
+     </div>
   <h2>Contatos</h2>  
 
   <p>Formas de me encontrar</p>
