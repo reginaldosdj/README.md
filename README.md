@@ -1,7 +1,7 @@
  <div align="center"> 
   
   ## Olá, me chamo Reginaldo
-Estudante de Engenharia da Computação,estagiário de desenvolvimento fullstack<br>
+Formado em Engenharia da Computação, Desenvolvedor .NET<br>
 <div align="center">
   <a href="https://github.com/reginaldosdj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldosdj&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
